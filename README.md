@@ -36,14 +36,14 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 <h3>1.) Create Tickets as End-Users</h3>
 
 - **Scenario 1:** Create a ticket as an end-user with the following details:
-  - **Subject:** "Entire mobile/claim intake system is down"
-  - **Details:** Describe the issue briefly (e.g., "The entire claim intake system is down, preventing users from accessing their accounts.")
+  - **Subject:** "Entire mobile/online banking system is down"
+  - **Details:** Describe the issue briefly (e.g., "The entire online banking portal is down, preventing users from accessing their accounts.")
 
 <img src="https://imgur.com/gEn5F1V.png" alt="osTicket logo"/>
 
 <h3>2.) Observe Ticket Properties as Help Desk Agent</h3>
 
-- Log in as **Help Desk Agent (john)**.
+- Log in as **Help Desk Admin (cristopher)**.
 - Observe the ticket’s properties:
   - **Priority:** Default value.
   - **Department:** Default department.
@@ -92,7 +92,7 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 
 <h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
 
-- Log in as **Help Desk Admin (stephen)**.
+- Log in as **Help Desk Admin (cristopher)**.
 - Observe the ticket’s properties:
   - **Priority:** Default value.
   - **Department:** Default department.

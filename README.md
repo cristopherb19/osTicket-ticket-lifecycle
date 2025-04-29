@@ -88,7 +88,7 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **Subject:** "Accounting department needs Adobe upgrade, broken"
   - **Details:** Describe the issue briefly (e.g., "The Adobe software used by the accounting department is broken and needs an upgrade.")
  
-![image](https://github.com/user-attachments/assets/b30812d0-5b1b-4066-aec1-38e96649fad8)
+<img src="https://imgur.com/weWurnV.png" alt="osTicket logo"/>
 
 <h3>7.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -99,18 +99,20 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **SLA:** Default SLA.
   - **Assigned To:** Not yet assigned.
  
-![image](https://github.com/user-attachments/assets/a202773c-4fce-4261-be10-19e7631d8a39)
+<img src="https://imgur.com/gN7Tir3.png" alt="osTicket logo"/>
+<img src="https://imgur.com/skF8sLW.png" alt="osTicket logo"/>
 
 <h3>8.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
   - **SLA:** Sev-B (4 hours, 24/7).
-  - **Assigned To:** Claim Intake
+  - **Assigned To:** Online Banking
   - **Department:** Support.
  
-![image](https://github.com/user-attachments/assets/f515f3a1-fb32-4ac8-908a-82e99b96e7ce)
+<img src="https://imgur.com/CA3taCk.png" alt="osTicket logo"/>
+<img src="https://imgur.com/tEgEvIF.png" alt="osTicket logo"/>
+<img src="https://imgur.com/515aOmA.png" alt="osTicket logo"/>
 
-![image](https://github.com/user-attachments/assets/0508def2-7154-4eee-b2ce-748abe8dcc94)
 
 <h3>9.) Work the Ticket to Completion</h3>
 
@@ -118,7 +120,14 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
-![image](https://github.com/user-attachments/assets/e10e2d4d-a5e8-4290-9a0c-78a5c1a78bb2)
+<img src="https://imgur.com/wM0mZfw.png" alt="osTicket logo"/>
+<img src="https://imgur.com/UFQcPfN.png" alt="osTicket logo"/>
+<img src="https://imgur.com/14hagYx.png" alt="osTicket logo"/>
+<img src="https://imgur.com/YDmgIo4.png" alt="osTicket logo"/>
+<img src="https://imgur.com/VMrlQgR.png" alt="osTicket logo"/>
+<img src="https://imgur.com/ZY33HEj.png" alt="osTicket logo"/>
+<img src="https://imgur.com/6PTTRcr.png" alt="osTicket logo"/>
+
 
 ---
 

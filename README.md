@@ -39,7 +39,7 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **Subject:** "Entire mobile/claim intake system is down"
   - **Details:** Describe the issue briefly (e.g., "The entire claim intake system is down, preventing users from accessing their accounts.")
 
-![image](https://github.com/user-attachments/assets/97a426e9-af2f-483a-8787-2fe547692d0e)
+<img src="https://imgur.com/gEn5F1V.png" alt="osTicket logo"/>
 
 <h3>2.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -50,21 +50,18 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **SLA:** Default SLA.
   - **Assigned To:** Not yet assigned.
  
-![image](https://github.com/user-attachments/assets/95234ab8-16bc-4f0c-8145-f77474b7f30c)
-
-![image](https://github.com/user-attachments/assets/83460701-b156-4f6f-8842-0c39e7b91752)
+<img src="https://imgur.com/17491yn.png" alt="osTicket logo"/>
+<img src="https://imgur.com/fvyCybX.png" alt="osTicket logo"/>
 
 <h3>3.) Set Ticket Properties</h3>
 
 - Update the ticket with the following properties:
   - **SLA:** Sev-A (1 hour, 24/7).
-  - **Assigned To:** Claim Intake Team.
+  - **Assigned To:** Online Banking Team.
 
-![image](https://github.com/user-attachments/assets/6d3b3d32-844d-476e-af6f-f5e09ede4c90)
-
-![image](https://github.com/user-attachments/assets/cf15e90a-6f1c-49cd-8757-21e1c169398a)
-
-![image](https://github.com/user-attachments/assets/c76f7750-ed27-43f9-b4ae-99a3300cebe2)
+<img src="https://imgur.com/fvyCybX.png" alt="osTicket logo"/>
+<img src="https://imgur.com/jUZFwGO.png" alt="osTicket logo"/>
+<img src="https://imgur.com/CA1jgoL.png" alt="osTicket logo"/>
 
 <h3>4.) Verify Ticket Permissions</h3>
 
@@ -77,7 +74,11 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
 
-![image](https://github.com/user-attachments/assets/11f30140-7834-4fc9-89cc-17e505edb64f)
+<img src="https://imgur.com/SY0bbCt.png" alt="osTicket logo"/>
+<img src="https://imgur.com/4Ox2Hsb.png" alt="osTicket logo"/>
+<img src="https://imgur.com/kANvRzD.png" alt="osTicket logo"/>
+<img src="https://imgur.com/UST0jzM.png" alt="osTicket logo"/>
+<img src="https://imgur.com/oqNu9A3.png" alt="osTicket logo"/>
 
 ---
 

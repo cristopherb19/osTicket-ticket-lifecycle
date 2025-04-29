@@ -137,7 +137,8 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **Subject:** "CFO’s laptop will no longer turn on"
   - **Details:** Describe the issue briefly (e.g., "The CFO's laptop is not powering on, and it needs urgent attention.")
  
-![image](https://github.com/user-attachments/assets/431a0fcb-64ea-471d-882e-af6e7f3284df)
+<img src="https://imgur.com/BGgVM9a.png" alt="osTicket logo"/>
+
 
 <h3>11.) Observe Ticket Properties as Help Desk Agent</h3>
 
@@ -148,7 +149,8 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **SLA:** Default SLA.
   - **Assigned To:** Not yet assigned.
 
-![image](https://github.com/user-attachments/assets/6dfbf93b-766f-4c4b-a08f-ebc4f8e6ef33)
+<img src="https://imgur.com/4vWQLb3.png" alt="osTicket logo"/>
+<img src="https://imgur.com/QbqbdQk.png" alt="osTicket logo"/>
 
 <h3>12.) Set Ticket Properties</h3>
 
@@ -157,13 +159,18 @@ This guide outlines the lifecycle of a ticket from intake to resolution within t
   - **Department:** Support.
   - **Assigned To:** John Doe
 
-![image](https://github.com/user-attachments/assets/122cebe1-e163-49e3-b8e6-6ea2c8e0bc16)
+<img src="https://imgur.com/jktspji.png" alt="osTicket logo"/>
+<img src="https://imgur.com/NtqcfK5.png" alt="osTicket logo"/>
 
 <h3>13.) Work the Ticket to Completion</h3>
 
 - Log in as **Help Desk Agent (john)**.
 - Take ownership of the ticket, work the issue, and resolve it.
 - Mark the ticket as **Closed** once the issue is resolved.
+
+<img src="https://imgur.com/lriwegk.png" alt="osTicket logo"/>
+<img src="https://imgur.com/ihW13gb.png" alt="osTicket logo"/>
+<img src="https://imgur.com/HRGu907.png" alt="osTicket logo"/>
 
 ---
 
